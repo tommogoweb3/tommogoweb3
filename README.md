@@ -1,10 +1,10 @@
-👋 Hello there!
+👋 gm!
 - I’m @tommogoweb3, with expertise in business development, P&L management and partner negotiations. I have decided to quit my job in big tech, and go all in on web3 - to put it simply, I'm betting on myself.
 - 👀 Generally, my web3 interests include DeFi, NFTs, future ways of working aka DAOs, and GameFi.
 - I'm currently learning Solidity, web3.js to start with.
-- ALso, I'm always open to chatting about anything web3 (and basketball) related, you can find me: @tommogoweb3 on twitter.
+- Also, I'm always open to chatting about anything web3 (and basketball) related, you can find me: @tommogoweb3 on twitter.
 
-Have a good one!
+Thanks for visiting my github page.
 
 Tommogo
 
