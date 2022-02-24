@@ -1,7 +1,7 @@
 👋 gm!
-- I’m @tommogoweb3, with expertise in business development, P&L management and partner negotiations. I have decided to quit my job in big tech, and go all in on web3 - to put it simply, I'm betting on myself.
-- 👀 Generally, my web3 interests include DeFi, NFTs, future ways of working aka DAOs, and GameFi.
-- I'm currently learning Solidity, web3.js to start with.
+- I’m @tommogoweb3. I am a self-starter and fast learner, pivoting into Web3 and blockchain tech with many years of business development experience in highly complex and fast-moving environments. Looking to leverage existing business skills and expand on newly acquired technical blockchain-related knowledge in the crypto space.
+- 👀 Generally, my web3 interests include ETH scaling solutions, DeFi, NFTs, future ways of working aka DAOs, and GameFi.
+- I'm currently learning Solidity, web3.js.
 - Also, I'm always open to chatting about anything web3 (and basketball) related, you can find me: @tommogoweb3 on twitter.
 
 Thanks for visiting my github page.
